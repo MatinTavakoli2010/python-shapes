@@ -11,4 +11,5 @@ for j in range(8):
             laki.right(90)
         laki.right(45)
 laki.hideturtle()
+laki.screen.exitonclick()
 #Matin tavakoli
