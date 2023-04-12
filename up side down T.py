@@ -1,0 +1,18 @@
+import turtle
+laki=turtle.Turtle()
+laki2=turtle.Turtle()
+laki3=turtle.Turtle()
+laki2.color('dark blue')
+laki.color('dark blue')
+laki3.color('dark blue')
+laki.width(4)
+laki2.width(4)
+laki3.width(4)
+laki.left(90)
+laki2.left(180)
+laki. forward(100)
+laki2.forward(50)
+laki2.left(90)
+laki2.forward(20)
+laki3. forward(100)
+#Matin tavakoli
