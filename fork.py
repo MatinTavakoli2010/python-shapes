@@ -31,4 +31,5 @@ laki4.right(90)
 laki4.forward(30)
 laki4.left(90)
 laki4.forward(25)
+laki.screen.exitonclick()
 #Matin tavakoli
