@@ -9,4 +9,5 @@ for j in range(12):
              laki.circle(i)
     laki.left(360/12)
 laki.hideturtle()
+laki.screen.exitonclick()
 #Matin tavakoli
