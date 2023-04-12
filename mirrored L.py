@@ -12,4 +12,5 @@ laki. forward(100)
 laki2.forward(50)
 laki2.left(90)
 laki2.forward(20)
+laki.screen.exitonclick()
 #Matin tavakoli
